@@ -1,0 +1,16 @@
+[
+{
+  "modid": "katibri",
+  "name": "Katibri",
+  "description": "A Minecraft Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Keros Swordbane (thekidmastergx)"],
+  "credits": "To SFA at TAMU",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
