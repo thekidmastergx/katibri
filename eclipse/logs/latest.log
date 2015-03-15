@@ -1,50 +1,27 @@
-[11:22:52] [main/INFO]: Setting user: Player326
-[11:22:55] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:22:56] [Client thread/ERROR]: Couldn't initialize twitch stream
-[11:23:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Katibri
-[11:23:03] [Sound Library Loader/INFO]: Sound engine started
-[11:23:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:23:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:23:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Katibri
-[11:23:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:23:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:23:07] [Sound Library Loader/INFO]: Sound engine started
-[11:23:20] [Client thread/INFO]: Deleting level New World
-[11:23:20] [Client thread/INFO]: Attempt 1...
-[11:23:23] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:23:23] [Server thread/INFO]: Generating keypair
-[11:23:23] [Server thread/INFO]: Converting map!
-[11:23:23] [Server thread/INFO]: Scanning folders...
-[11:23:23] [Server thread/INFO]: Total conversion count is 0
-[11:23:24] [Server thread/WARN]: Unable to find spawn biome
-[11:23:25] [Server thread/INFO]: Preparing start region for level 0
-[11:23:26] [Server thread/INFO]: Preparing spawn area: 8%
-[11:23:27] [Server thread/INFO]: Preparing spawn area: 15%
-[11:23:28] [Server thread/INFO]: Preparing spawn area: 24%
-[11:23:29] [Server thread/INFO]: Preparing spawn area: 33%
-[11:23:30] [Server thread/INFO]: Preparing spawn area: 45%
-[11:23:31] [Server thread/INFO]: Preparing spawn area: 55%
-[11:23:32] [Server thread/INFO]: Preparing spawn area: 65%
-[11:23:33] [Server thread/INFO]: Preparing spawn area: 76%
-[11:23:34] [Server thread/INFO]: Preparing spawn area: 80%
-[11:23:35] [Server thread/INFO]: Preparing spawn area: 91%
-[11:23:36] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:23:36] [Server thread/INFO]: Player326[local:E:963b2c44] logged in with entity id 371 at (158.5, 69.0, 44.5)
-[11:23:37] [Server thread/INFO]: Player326 joined the game
-[11:23:40] [Server thread/INFO]: Saving and pausing game...
-[11:23:40] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:23:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:23:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:23:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16014ms behind, skipping 320 tick(s)
-[11:34:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6392ms behind, skipping 127 tick(s)
-[11:34:57] [Server thread/INFO]: Saving and pausing game...
-[11:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:35:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:35:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:35:01] [Server thread/INFO]: Stopping server
-[11:35:01] [Server thread/INFO]: Saving players
-[11:35:01] [Server thread/INFO]: Saving worlds
-[11:35:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:35:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:35:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:35:03] [Client thread/INFO]: Stopping!
+[05:59:07] [main/INFO]: Setting user: Player276
+[05:59:09] [Client thread/INFO]: LWJGL Version: 2.9.1
+[05:59:10] [Client thread/ERROR]: Couldn't initialize twitch stream
+[05:59:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Katibri
+[05:59:17] [Sound Library Loader/INFO]: Sound engine started
+[05:59:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[05:59:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[05:59:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Katibri
+[05:59:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[05:59:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[05:59:20] [Sound Library Loader/INFO]: Sound engine started
+[05:59:24] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[05:59:24] [Server thread/INFO]: Generating keypair
+[05:59:24] [Server thread/INFO]: Preparing start region for level 0
+[05:59:25] [Server thread/INFO]: Preparing spawn area: 26%
+[05:59:27] [Server thread/INFO]: Changing view distance to 12, from 10
+[05:59:28] [Server thread/INFO]: Player276[local:E:aeb4d3ea] logged in with entity id 435 at (-108.53488733508847, 86.74727989251895, 91.82964577304827)
+[05:59:28] [Server thread/INFO]: Player276 joined the game
+[05:59:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2106ms behind, skipping 42 tick(s)
+[05:59:42] [Server thread/INFO]: Player276 has just earned the achievement [Taking Inventory]
+[05:59:42] [Client thread/INFO]: [CHAT] Player276 has just earned the achievement [Taking Inventory]
+[05:59:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 187 ms
+[06:02:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2438ms behind, skipping 48 tick(s)
+[06:34:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5568ms behind, skipping 111 tick(s)
+[06:35:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6582ms behind, skipping 131 tick(s)
+[06:35:39] [Client Shutdown Thread/INFO]: Stopping server
+[06:35:41] [Client Shutdown Thread/INFO]: Saving players

@@ -1,1 +1,17 @@
 item.spice.name=Spice Dust
+
+item.ingotCopper.name=Taamba Ingot
+item.ingotZinc.name=Tutamu Ingot
+item.ingotSilver.name=Chandi Ingot
+item.ingotBrass.name=Peetal Ingot
+item.ingotSteel.name=Fulad Ingot
+
+tile.oreCopper.name=Taamba Ore
+tile.oreZinc.name=Tutamu Ore
+tile.oreSilver.name=Chandi Ore
+
+tile.metalCopper.name=Taamba Block
+tile.metalZinc.name=Tutamu Block
+tile.metalSilver.name=Chandi Block
+tile.metalBrass.name=Peetal Block
+tile.metalSteel.name=Fulad Block

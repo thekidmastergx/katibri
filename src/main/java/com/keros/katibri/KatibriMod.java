@@ -11,11 +11,13 @@ import com.keros.katibri.handler.ConfigurationHandler;
 import com.keros.katibri.reference.Reference;
 import com.keros.katibri.proxy.IProxy;
 import com.keros.katibri.util.LogHelper;
+
 import com.keros.katibri.init.ModItems;
 import com.keros.katibri.init.ModBlocks;
+import com.keros.katibri.init.ModCrafting;
+import com.keros.katibri.init.ModSmelting;
+import com.keros.katibri.init.ModOreDictionary;
 import com.keros.katibri.init.ModWorldGen;
-
-//import com.keros.katibri.init.Recipes;
 
 @Mod(modid = Reference.MOD_ID,name=Reference.MOD_NAME, version = Reference.VERSION)
 public class KatibriMod{
@@ -32,16 +34,17 @@ public class KatibriMod{
   public void preInit(FMLPreInitializationEvent event){
     ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
-    ModWorldGen.init();
     
+    ModWorldGen.init();
     ModItems.init();
-    LogHelper.info(ModItems.spice.getUnlocalizedName());
     ModBlocks.init();
   }
 
   @Mod.EventHandler
   public void init(FMLInitializationEvent event){
-    //Recipes.init();
+    ModOreDictionary.init();
+    ModCrafting.init();
+    ModSmelting.init();
   }
 
   @Mod.EventHandler
